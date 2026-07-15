@@ -1,0 +1,8 @@
+complaint_label,display_name,tier1_count,pct_of_tier1,pct_of_classified,is_classified,color_hex,sort_order
+STYLE_EXPECTATION,Style / Silhouette,473,18.5,37.8,True,#E07B54,1
+MATERIAL_QUALITY,Material Quality,361,14.1,28.9,True,#5B8DB8,2
+SIZING_ACCURACY,Sizing Accuracy,150,5.9,12.0,True,#8ABF69,3
+FIT_CUT,Fit & Cut,147,5.8,11.8,True,#9B72AA,4
+DESCRIPTION_MISMATCH,Description Mismatch,117,4.6,9.4,True,#E8B84B,5
+PERSONAL_FIT,Personal Preference,3,0.1,0.2,True,#A8A8A8,6
+UNDETERMINED,Unclassified,1305,51.1,,False,#D0D0D0,7
