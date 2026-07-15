@@ -1,0 +1,33 @@
+# ── Data files ────────────────────────────────────────────────────────────────
+# Raw and cleaned CSVs are not committed — download the source dataset from
+# Kaggle (see README) and run python/phase2_clean.py to regenerate data/clean/.
+data/raw/
+data/clean/
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+
+# ── OS / editor ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Temp / scratch ────────────────────────────────────────────────────────────
+*.tmp
+*.log
