@@ -1,5 +1,3 @@
-# Customer-Experience-Intelligence-Platform
-Found that "unflattering silhouette" — not sizing or quality — is the #1 driver of negative reviews in a 23K-review e-commerce dataset. AI-assisted complaint classification, validated and documented end-to-end.
 # Customer Experience Intelligence Platform
 
 **Women's E-Commerce Clothing Reviews — Complaint Pattern Analysis**
@@ -285,5 +283,3 @@ python python/generate_pbi_exports.py
 ---
 
 *This project was completed as part of a data analytics portfolio. Dataset: Women's E-Commerce Clothing Reviews, publicly available via Kaggle / UCI Machine Learning Repository.*
-
-
